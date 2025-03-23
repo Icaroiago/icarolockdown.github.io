@@ -1,0 +1,127 @@
+body {
+    background-color: rgb(0, 0, 0);
+    background-image: url('assets/img/559477-2880x1800-desktop-hd-lockdown-transformers-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.h {
+    margin: 20px auto;
+    text-align: center;
+    width: 80%;
+}
+
+.p {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+    transform: scale(1.06);
+    transition: .6s;
+    display: inline-block;
+    width: 600px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.5px #9c9595;
+    font-family: 'Roboto', sans-serif;
+}
+p:hover{
+    transform: scale(0.5);
+    transition: .6s;
+}
+
+.P2 {
+    color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px auto;
+    border: 5px solid rgb(0, 0, 0);
+    opacity: 100%;
+    width: 200px;
+    background-color: rgba(76, 76, 76, 0.5);
+    font-size: 13px;
+}
+
+.content {
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.L3 {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px auto;
+    font-size: 50px;
+    text-align: center;
+    width: 90%;
+}
+
+#atributos {
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    color: rgb(148, 141, 141);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.restante {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    width: 350px;
+    font-size: 25px;
+    padding: 10px;
+    margin: 15px auto;
+}
+
+.LOCK {
+    text-align: center;
+    font-size: 40px;
+    color: #f0f0f0;
+}
+
+iframe {
+    display: inline-block;
+    width: 50%;
+    height: 500px;
+    margin: 20px auto;
+}
+
+.down{
+    display: inline-block;
+    width: 76%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgba(40, 44, 24, 0.8);
+    border-radius: 10px; 
+    box-shadow: 0px 0px 10px rgb(12, 194, 15);
+}
+img{
+    display:inline-block;
+    width: 50%;
+    height: 50%;
+}
